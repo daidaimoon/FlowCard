@@ -12,7 +12,7 @@
 </div>
 
 <!-- Banner -->
-![Banner](screenshots/开屏页.png)
+<img src="screenshots/开屏页.png" width="100%" alt="FlowCard Banner" />
 
 <div align="center">
   <p>把冗长的流程文档拆解成卡片，每张卡片只讲一件事<br/>由业务人员主导 · AI 协作开发 · 零代码基础完成</p>
